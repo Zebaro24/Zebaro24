@@ -74,6 +74,7 @@
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/Zebaro24)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Email](https://img.shields.io/badge/Email-zebaro.work@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:zebaro.work@gmail.com)
 
 ---
 
