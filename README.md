@@ -45,10 +45,6 @@
 
 ## 🧩 Projects I'm Proud Of
 
-### 🚀 Projects
-
-## 🚀 Projects I'm Proud Of
-
 | Project | Description | Tech Stack | Link |
 |---------|-------------|------------|------|
 | 🏛️ **Campus-Navigate-3D** | Interactive 3D university campus navigation system with fly-through and point selection. | ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat&logo=three.js) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react) ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django) | [Frontend](https://github.com/Zebaro24/Campus-Navigate-3D-Frontend) • [Backend](https://github.com/Zebaro24/Campus-Navigate-3D-Backend) |
