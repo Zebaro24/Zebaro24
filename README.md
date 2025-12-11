@@ -58,8 +58,11 @@
 
 ## 📈 GitHub Stats
 
-![Zebaro24's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zebaro24&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zebaro24&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zebaro24&theme=dracula" alt="Profile Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Zebaro24&theme=dracula" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zebaro24&theme=dracula" alt="GitHub Stats" />
+</p>
 
 ---
 
